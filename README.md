@@ -1,6 +1,6 @@
-# Student Performance Predictor
+# html-port
 
-## Description
+## Student Performance Predictor
 This project predicts whether a student will pass or fail based on study hours using Machine Learning.
 
 ## Features
